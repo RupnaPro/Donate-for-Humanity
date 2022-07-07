@@ -18,7 +18,8 @@ h2{
     padding-right: 357px;
     background-image: url(images/donation14.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-blend-mode: darken;
+    background-size:contain;
     font-weight: 900;
     margin: 0px;
     text-align: center;
@@ -86,4 +87,16 @@ h2{
     border-radius: 8px;
     background: rgba(53, 152, 163, 0.2);
     border-radius: 5px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.half-width img{
+    width: 40vw;
+    height: 40vh;
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 50px;
 }
