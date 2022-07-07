@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 80px;
 }
+h2{
+    font-size: 45px;
+}
 .top-banner{
     color: white;
     padding-top: 274px;
@@ -27,4 +30,7 @@ h1{
     padding: 15px 35px;
     border-radius: 12px;
     color: white;
+}
+.donate-now{
+    text-align: center;
 }
