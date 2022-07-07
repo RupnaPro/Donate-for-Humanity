@@ -34,3 +34,18 @@ h2{
 .donate-now{
     text-align: center;
 }
+.container {
+    display: flex;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.width {
+    width: 12%;
+    background-color: #FAFAFA;
+    text-align: center;
+    margin: 5px 10px;
+    color: #929292;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
