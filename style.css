@@ -1,4 +1,5 @@
 body{
+    margin: 0px;
     font-family: 'Inter', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
@@ -16,10 +17,9 @@ h2{
     padding-bottom: 175px;
     padding-left: 357px;
     padding-right: 357px;
-    background-image: url(images/donation14.jpg);
+    background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
-    background-blend-mode: darken;
-    background-size:contain;
+    background-size:cover;
     font-weight: 900;
     margin: 0px;
     text-align: center;
@@ -99,4 +99,28 @@ h2{
     align-items: center;
     padding-top: 50px;
     padding-left: 50px;
+}
+.email-option{
+    text-align: center;
+}
+.email-form{
+    border: 60px;
+    background-color:#FFF4D6;
+    display: flex;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color:black;
+    padding-bottom: 24px;
+}
+#be-humble{
+    font-style: italic;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+    color: red;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+    padding-top: 15px;
 }
