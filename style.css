@@ -36,6 +36,7 @@ h2{
 }
 .donate-now{
     text-align: center;
+    margin-top: 200px;
 }
 .container {
     display: flex;
@@ -106,8 +107,12 @@ h2{
 .email-form{
     border: 60px;
     background-color:#FFF4D6;
-    display: flex;
     text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 50px;
+    border-radius: 9px;
+    
 }
 footer{
     text-align: center;
